@@ -1,0 +1,11 @@
+[2023-02-26 04:46:25] [[31merror[39m] Error: Error test winston
+    at C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\dist\index.js:15:15
+    at Layer.handle [as handle_request] (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\layer.js:95:5)
+    at C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\MD4_TH_SU_DUNG_WINSTON_GHI_LOG_VAO_FILE\node_modules\express\lib\router\layer.js:95:5)
